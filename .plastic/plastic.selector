@@ -1,0 +1,4 @@
+repository "Scooby-Doo - Fright Investigations@loucoporgame@cloud"
+  path "/"
+    br "/main"
+    co "/main"
